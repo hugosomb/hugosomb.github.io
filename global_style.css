@@ -1,0 +1,17 @@
+﻿body {
+	background-color: #F0F0F0;
+	color: #333333;
+	margin: 40px auto;
+	max-width: 732px;
+	font-size: 18px;
+	padding: 0 10px;
+	text-align: justify;
+}
+table,td {
+	/* max-width: none; */
+	border-style: solid;
+	border-width: thin;
+}
+img {
+	max-height: 128px;
+}
