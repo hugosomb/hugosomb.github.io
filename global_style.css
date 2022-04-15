@@ -12,6 +12,6 @@ table,td {
 	border-style: solid;
 	border-width: thin;
 }
-img {
+table img {
 	max-height: 128px;
 }
