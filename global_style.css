@@ -7,8 +7,7 @@
 	padding: 0 10px;
 	text-align: justify;
 }
-table,td {
-	/* max-width: none; */
+table, td {
 	border-style: solid;
 	border-width: thin;
 }
