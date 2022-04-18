@@ -1,12 +1,12 @@
 ﻿body {
-	background-color: #F0F0F0;
-	color: #333333;
+	color: #333434;
 	margin: 40px auto;
 	max-width: 718px;
 	font-size: 16px;
 	padding: 0 10px;
 	text-align: justify;
-	line-height: 150%
+	line-height: 150%;
+	font-family: Tahoma, "Segoe UI", Geneva, Verdana, sans-serif;
 }
 h1,h2,h3,h4,h5,h6 {
 	line-height: 100%
