@@ -2,10 +2,14 @@
 	background-color: #F0F0F0;
 	color: #333333;
 	margin: 40px auto;
-	max-width: 755px;
-	font-size: 18px;
+	max-width: 718px;
+	font-size: 16px;
 	padding: 0 10px;
 	text-align: justify;
+	line-height: 150%
+}
+h1,h2,h3,h4,h5,h6 {
+	line-height: 100%
 }
 table, td {
 	border-style: solid;
