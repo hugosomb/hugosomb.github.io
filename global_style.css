@@ -8,6 +8,9 @@
 	line-height: 150%;
 	font-family: Tahoma, "Segoe UI", Geneva, Verdana, sans-serif;
 }
+img {
+	max-width: 718px;
+}
 h1,h2,h3,h4,h5,h6 {
 	line-height: 100%
 }
