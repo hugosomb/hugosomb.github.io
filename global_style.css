@@ -12,6 +12,7 @@
 h1,h2,h3,h4,h5,h6 {
 	line-height: 100%
 }
+
 aside {
 	font-style: italic;
 }
@@ -26,8 +27,15 @@ table img {
 }
 
 /* GALLERY STUFF */
+div.gallerycontainer {
+	width: 100%;
+	position: relative;
+	float:inline-end;
+	padding: 10px 0 10px 0;
+}
+
 div.gallery {
-	margin: 5px;
+	margin: 2px;
 	border: 1px solid #ccc;
 	float: left;
 	width: 180px;
@@ -38,11 +46,10 @@ div.gallery:hover {
 }
   
 div.gallery img {
-	width: 600px;
-	height: auto;
+	width: 180px;
 }
   
 div.desc {
-	padding: 15px;
-	text-align: center;
+	padding: 10px;
+	text-align: left;
 }
