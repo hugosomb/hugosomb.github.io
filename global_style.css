@@ -29,17 +29,19 @@ table img {
 
 /* GALLERY STUFF */
 div.gallerycontainer {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
 	width: 100%;
-	position: relative;
-	float:inline-end;
-	padding: 10px 0 10px 0;
+	float: inline-end;
+	margin-bottom: 10px;
 }
 
 div.gallery {
+	flex: 1 0 49%;
 	margin: 2px;
 	border: 1px solid #ccc;
-	float: left;
-	width: 180px;
 }
   
 div.gallery:hover {
@@ -47,8 +49,8 @@ div.gallery:hover {
 }
   
 div.gallery img {
-	width: 180px;
-	max-height: 180px;
+	width: 100%;
+	object-fit: cover;
 }
 
 div.gallery a {
