@@ -1,0 +1,4 @@
+baseURL = 'https://hugosomb.github.io/'
+languageCode = 'en-gb'
+title = 'hugo somboonsin'
+theme = "hugo-theme-console"
