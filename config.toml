@@ -18,6 +18,10 @@ languageCode = "en-gb"
   [[params.navlinks]]
   name = "posts/"
   url = "posts/"
+
+  [[params.navlinks]]
+  name = "links/"
+  url = "links/"
   
   [[params.navlinks]]
   name = "photos/"
