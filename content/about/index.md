@@ -5,7 +5,7 @@ title = "who the hell are you mate"
 
 I am a Computing and Software Systems and Urban Planning student at the University of Melbourne, with interests in public transport systems, urban planning, software development, PC hardware, photography, graphic design, and filmmaking.
 
-See my [~~corporate speak page~~ CV](resume.md).
+See my [~~corporate speak page~~ CV](resume).
 
 # please talk to me i'm lonely
 
