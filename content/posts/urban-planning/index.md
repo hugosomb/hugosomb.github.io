@@ -1,0 +1,28 @@
++++
+title = "melbourne urban planning fucking sucks"
+date = "2022-06-14"
++++
+
+Fuck all is being done to address the systemic problems facing Melbourne's land use planning right now. Living on the urban fringe (not particularly by choice), I see a lot of bullshit first hand, and it's honestly depressing.
+
+<!--more-->
+
+Urban sprawl is continuing like mad because we don't really have a defined boundary on what is and isn't 'Melbourne'. They keep extending the growth boundary and/or releasing land so property developers can make a shitload of money building seas of cookie cutter houses with the same grey roofs and bad cement render whilst failing to provision even the most basic of needs, whether it be public transport, schools, shops, or employment opportunities.
+
+As for the stuff that's built up already, there's so much wasted space on single-family, detached houses. Most of the time the only services available are at a shopping centre, which is only accessible by a bus that runs every 40 minutes, finishes at 7 pm, and doesn't run on weekends.
+
+Want to head further? If you're lucky, a bus to the station might exist, and it might arrive within negative two minutes of the train, because the timetables don't bloody line up for no good reason other than that it's the way it's always been, and continues to be, because the Department of Transport still hasn't, despite having had over a decade to perfect its work, figured out that good connections might be needed for an integrated public transport system. I say if you're lucky, of course, as some buses don't even serve stations, because the route hasn't changed since the 1970s when buses were a competitor to the railways. Or maybe your bus just doesn't exist. It'll come eventually, in a few years, because apparently it takes two to three years in this city to get something as rudimentary as a new bus route up and running.
+
+Otherwise, you'll have to drive. You're lucky to be able to even walk to the station, since transit-oriented development doesn't exist here. Surrounding your local railway station, or maybe your tram line if you're really lucky, are not complexes of mid-to-high density shops, apartments, and offices, but a sea of car parking (for your car, since most people will have to drive) and more detached housing. Maybe, just maybe, there'll be a dingy bus interchange vaguely nearby; else – if there's a bus, of course – you'll have to just hike blindly to the nearest main road and pray that you're standing on the right side of the right road. In some places, you can walk across the station's massive parking lot, and then another massive parking lot, and then you'll reach a shopping centre – I guess this is what passes for TOD and walkability.
+
+The railway network itself is extensive, but the frequencies are appalling, and the stopping patterns are stupid. What's the point of building express lines if they're only going to be used for a few hours each weekday? And why are people from Tarneit and Melton lumped onto the same trains as people from Geelong or Ararat, entirely different cities hundreds of kilometres away? Similar thing with trams, with the added bonuses of no traffic light priority (even though VicRoads is already capable of doing it in some places – they just choose not to) and running in mixed traffic even though a lot of those streets, if not all, would easily fit a dedicated tramway if they got rid of on-street parking. A trip from East Brighton to the University of Melbourne by tram – only 15 km – is 55 fucking minutes at peak hour.
+
+On top of all this, the government has put barely any effort into implementing or promoting their best urban planning policies: 20 minute (walkable) neighbourhoods, infill development and densification, mini-CBDs outside of inner Melbourne. All the stuff on the Department of Environment website focuses on how they're 'cutting red tape' and 'making Melbourne greener' – focusing on how all these new developments will be eco-friendly or whatever and ignoring the harm that they cause in the first place.
+
+For the past few years now, near Tarneit station, my local, there's been a big billboard advertising a new estate 'only 25 minutes to the CBD!' It'd be infinitely better, of course, if you didn't have to take the train from a suburb 30 kilometres away, but that's where we are. It's not like we can better utilise land in the existing urban area to create more housing and reduce unaffordability, heavens no. Taking away my backyards? My precious car parking spaces? You know that's downright un-Australian, don't you?
+
+**We don't need new developments. We need to make much, much better use of the land that we've already turned over to urbanisation.**
+
+This might be solved if we had some kind of nationalised, integrated development and housing corporation for Melbourne, with a strong, focused agenda, but alas, the current Victorian Planning Authority's only job seems to be half-arsedly creating more suburbia and selling off Crown land to let developers run amok. Social housing wait lists are miles long, whilst new apartments in Southbank, Docklands, and Footscray sit empty. God forbid we do something about unaffordability and homelessness, lest it affect my returns on property investments...!
+
+I was going to use the line about how Melbourne is only liveable if you're in inner Melbourne, but scratch that; all of Melbourne is one massive urban planning failure. Should none of this change, I fully expect the entirety of Port Phillip to be surrounded by a tumourous singularity of detached houses, shopping centres, and car parks within the next 20 years.

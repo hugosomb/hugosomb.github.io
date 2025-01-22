@@ -6,21 +6,21 @@
     <description>Recent content in Posts on hugo somboonsin</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hugosomb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://hugosomb.github.io/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugosomb.github.io/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
+      <title>free public transport is a waste of money</title>
+      <link>https://hugosomb.github.io/posts/free-pt-bad/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hugosomb.github.io/posts/free-pt-bad/</guid>
+      <description>&lt;p&gt;People don&amp;rsquo;t seem to understand that the greatest barrier to public transport use isn&amp;rsquo;t the cost – especially right now&#xA;when fuel prices are sky high. It&amp;rsquo;s the abysmal service.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What is Hugo</title>
-      <link>https://hugosomb.github.io/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugosomb.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <title>melbourne urban planning fucking sucks</title>
+      <link>https://hugosomb.github.io/posts/urban-planning/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hugosomb.github.io/posts/urban-planning/</guid>
+      <description>&lt;p&gt;Fuck all is being done to address the systemic problems facing Melbourne&amp;rsquo;s land use planning right now. Living on the urban fringe (not particularly by choice), I see a lot of bullshit first hand, and it&amp;rsquo;s honestly depressing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
